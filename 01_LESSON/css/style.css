@@ -1,19 +1,52 @@
-.container {
-    border:2px dashed red;
-    font-size: 1.5rem;
-    margin: 1.5em;
-    padding:1.5em;
-    outline: 5px solid purple;
-    outline-offset: -20px;
+/* Typography is the way that text is
+ arranged and presented */
+ /*  import link from ggogles stays here */
+
+
+ body {
+    padding: 25%;
+    font-size: 2rem;
+    font-size: large;
+    /* font-family: 'Courier New', Courier, monospace; */
+ }
+
+/*  
+ input, button {
+    font: inherit;
+ } */
+p {
+    /* text-transform: uppercase; */
+    text-align: justify;
+    line-height: 1.5;
+    /* font-style: oblique; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: lin e-through; */
 }
 
-.circle {
-    margin:3rem auto;
-    background-color: gold;
-    width: 100px;
-    height: 100px;
-    border: 2px solid black;
-    border-radius: 50px;
-    outline: 2px solid red;
-    outline-offset: 0.25rem;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
