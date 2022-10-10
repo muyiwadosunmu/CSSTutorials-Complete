@@ -1,39 +1,15 @@
-html {
-    font-size: 22px;
-}
-
-body {
-    font-size: 22px;
+h1 {
+    border:2px dashed red;
+    width:50%;
+    font-size:3rem;
+    padding:0.5em;
 }
 
 main {
-    font-family: monospace;
-}
-
-button, input, textarea, select {
-    font:inherit;
-}
-
-h1,h2 {
-    color:blue;
+    font-size:2rem;
 }
 
 p {
-    color:purple;
-}
+    font-size: 32px;
 
-p {
-    color:red;
-}
-.highlight {
-    text-transform: uppercase;
-    background-color: gold;
-}
-
-.gray {
-    color: gray;
-}
-
-#second {
-    font-style: italic;
 }
